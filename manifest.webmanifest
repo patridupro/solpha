@@ -1,0 +1,13 @@
+{
+  "name": "SOLPHA · SOL/USDT Desk",
+  "short_name": "SOLPHA",
+  "description": "Theo dõi SOL/USDT perpetual đa khung, đồng pha và Bollinger, cảnh báo theo giờ.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07080c",
+  "theme_color": "#0b0d12",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
